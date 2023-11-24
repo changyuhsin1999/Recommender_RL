@@ -4,7 +4,7 @@
 
 [Kaggle data](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)
 
-Train different session (contextual, sequential) based product recommendation recommenders
+Objectives: Train different session (contextual, sequential) based product recommendation recommenders
 for E-commerce use cases and compare the performances of the recommenders.
 
 ## Data processing and training approach
