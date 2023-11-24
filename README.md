@@ -17,4 +17,10 @@ One-hot encode these item features into the size of (70852,500)
 
 Modified the logits of SNQN.py
 
-Feed in the item feature with the modified logits
+Feed in the item feature with the modified logits and train with 5 epochs
+
+Hyperparameter lambda with 0.1, 0.15, 0.2
+
+## Comparison and Evaluation
+item without features
+
