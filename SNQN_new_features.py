@@ -53,7 +53,7 @@ def parse_args():
 
 
 class QNetwork:
-    def __init__(self, hidden_size, learning_rate, item_num, state_size, pretrain,feature_vec, name='DQNetwork', lambda_=0.15):
+    def __init__(self, hidden_size, learning_rate, item_num, state_size, pretrain,feature_vec, name='DQNetwork', lambda_=0.1):
         tf.compat.v1.disable_eager_execution()
         self.state_size = state_size
         self.learning_rate = learning_rate
