@@ -15,7 +15,7 @@ Select only static properties (properties that doesn't change over time, such li
 
 Pick out the top 500 most mentioned properties
 
-One-hot encode these item features into the size of (70852,500)
+One-hot encode these item features into the size (70852,500) of 1 and 0
 
 Modified the logits of SNQN.py
 
