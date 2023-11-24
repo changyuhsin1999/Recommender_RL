@@ -5,7 +5,7 @@ Original source code (https://colab.research.google.com/corgiredirector?site=htt
 Train different session (contextual, sequential) based product recommendation recommenders
 for E-commerce use cases and compare the performances of the recommenders.
 
-##Data processing and training approach
+## Data processing and training approach
 
 From sorted event csv filter out unique item: 70852
 
