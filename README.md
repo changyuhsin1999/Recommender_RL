@@ -24,5 +24,20 @@ Feed in the item feature with the modified logits and train with 5 epochs
 Hyperparameter lambda with 0.1, 0.15, 0.2
 
 ## Comparison and Evaluation
-item without features
+recommender without features
+
+![Screenshot](https://github.com/changyuhsin1999/Recommender_RL/blob/main/images/Screenshot%202023-11-23%20at%208.37.15%20PM.png)
+
+recommender with item features (lambda = 0.1)
+
+![Screenshot](https://github.com/changyuhsin1999/Recommender_RL/blob/main/images/Screenshot%202023-11-23%20at%208.43.37%20PM.png)
+
+recommender with item features (lambda = 0.15)
+
+![Screenshot](https://github.com/changyuhsin1999/Recommender_RL/blob/main/images/Screenshot%202023-11-23%20at%208.45.05%20PM.png)
+
+recommender with item features (lambda = 0.2)
+
+![Screenshot](https://github.com/changyuhsin1999/Recommender_RL/blob/main/images/Screenshot%202023-11-23%20at%208.47.04%20PM.png)
+
 
